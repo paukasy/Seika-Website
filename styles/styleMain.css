@@ -1,0 +1,13 @@
+header{
+    background-color: #abceff;
+    color: rgb(13, 13, 13);
+    text-align: center;
+    padding: 1em;
+}
+header .nav-link{
+    color: rgb(0, 0, 0);
+}
+header .nav-link:hover{
+    color: rgb(204, 143, 244);
+    text-decoration: underline;
+}
