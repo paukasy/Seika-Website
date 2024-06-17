@@ -1,0 +1,25 @@
+.swiper-container {
+    width: 100%;
+    padding: 20px 0;
+  }
+  .swiper-slide {
+    display: flex;
+    justify-content: center; /* Center the product card in the slide */
+  }
+  .product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  .product-card img {
+    width: 100px;
+    height: auto;
+  }
