@@ -1,5 +1,5 @@
 header{
-    background-color: #abceff;
+    background-color: #b7d8fb;
     color: rgb(13, 13, 13);
     text-align: center;
     padding: 1em;
@@ -9,14 +9,21 @@ header{
 
 }
 header .nav-link{
-    color: rgb(0, 0, 0);
+    color: #192a6f;
 }
 header .nav-link:hover{
-    color: rgb(204, 143, 244);
+    color: #c8bee8;
     text-decoration: underline;
 }
 main{
     padding-top: 45px;
+}
+
+main h1{
+    padding-top: 40px;
+    font-family: "Signika", sans-serif;
+    font-weight: 100;
+    text-align: center;
 }
 
 .carousel-item img{
