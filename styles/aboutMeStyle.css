@@ -1,0 +1,15 @@
+.aboutMe p{
+    text-align: left;
+}
+
+.aboutMe h1{
+    padding-top: 10px;
+    text-decoration: underline;
+}
+#faq{
+    text-decoration: underline;
+}
+
+#social{
+    text-decoration: underline;
+}
