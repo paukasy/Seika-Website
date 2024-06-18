@@ -25,10 +25,11 @@ main{
 }
 
 main h1{
-    padding-top: 40px;
+    padding-top: 30px;
     font-family: "Signika", sans-serif;
     font-weight: 100;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .carousel-item img{
