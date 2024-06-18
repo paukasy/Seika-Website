@@ -1,5 +1,8 @@
 .aboutMe p{
     text-align: left;
+    padding-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .aboutMe h1{
