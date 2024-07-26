@@ -30,3 +30,21 @@
     border: none;
     box-shadow: none;
 }
+
+.cartbtn {
+    background-color: #c8bee8;
+    color: white;             /* White text */
+    border: none;              /* No border */
+    padding: 10px 20px;        /* Some padding */
+    text-align: center;       /* Centered text */
+    text-decoration: none;    /* No underline */
+    display: inline-block;    /* Inline-block to align with text */
+    font-size: 15px;           /* Font size */
+    cursor: pointer;          /* Pointer cursor on hover */
+    border-radius: 5px;        /* Rounded corners */
+    font-family: "Signika", sans-serif;
+}
+
+.cartbtn:hover {
+    background-color: #192a6f; /* Darker green on hover */
+}
